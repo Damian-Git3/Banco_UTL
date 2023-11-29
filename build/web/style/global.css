@@ -1,0 +1,14 @@
+/* 
+    Created on : 26 nov 2023, 14:46:54
+    Author     : Damian Gamboa
+*/
+
+body{
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    display: block;
+    overflow: hidden;
+    
+}

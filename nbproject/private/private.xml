@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/damia/Documents/Practicas/Proyectos/Banco_UTL/src/java/com/dg/banco_utl/modelos/Cuenta.java</file>
+            <file>file:/C:/Users/damia/Documents/Practicas/Proyectos/Banco_UTL/src/java/com/dg/banco_utl/dao/CajeroDAO.java</file>
+            <file>file:/C:/Users/damia/Documents/Practicas/Proyectos/Banco_UTL/src/java/com/dg/banco_utl/modelos/Transaccion.java</file>
+            <file>file:/C:/Users/damia/Documents/Practicas/Proyectos/Banco_UTL/src/java/com/dg/banco_utl/rest/CajeroREST.java</file>
+            <file>file:/C:/Users/damia/Documents/Practicas/Proyectos/Banco_UTL/src/java/com/dg/banco_utl/modelos/Banco.java</file>
+            <file>file:/C:/Users/damia/Documents/Practicas/Proyectos/Banco_UTL/src/java/com/dg/banco_utl/dao/BancoDAO.java</file>
+            <file>file:/C:/Users/damia/Documents/Practicas/Proyectos/Banco_UTL/src/java/com/dg/banco_utl/rest/BancoREST.java</file>
+            <file>file:/C:/Users/damia/Documents/Practicas/Proyectos/Banco_UTL/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/damia/Documents/Practicas/Proyectos/Banco_UTL/web/index.html</file>
+            <file>file:/C:/Users/damia/Documents/Practicas/Proyectos/Banco_UTL/src/java/com/dg/banco_utl/cqrs/CuentaCQRS.java</file>
+            <file>file:/C:/Users/damia/Documents/Practicas/Proyectos/Banco_UTL/web/style/global.css</file>
+            <file>file:/C:/Users/damia/Documents/Practicas/Proyectos/Banco_UTL/src/java/com/dg/banco_utl/modelos/Cajero.java</file>
+            <file>file:/C:/Users/damia/Documents/Practicas/Proyectos/Banco_UTL/src/java/com/dg/banco_utl/dao/CuentaDAO.java</file>
+            <file>file:/C:/Users/damia/Documents/Practicas/Proyectos/Banco_UTL/src/java/com/dg/banco_utl/cqrs/TransaccionCQRS.java</file>
+            <file>file:/C:/Users/damia/Documents/Practicas/Proyectos/Banco_UTL/src/java/com/dg/banco_utl/cqrs/BancoCQRS.java</file>
+            <file>file:/C:/Users/damia/Documents/Practicas/Proyectos/Banco_UTL/src/java/com/dg/banco_utl/cqrs/CajeroCQRS.java</file>
+            <file>file:/C:/Users/damia/Documents/Practicas/Proyectos/Banco_UTL/src/java/com/dg/banco_utl/rest/TransaccionREST.java</file>
+            <file>file:/C:/Users/damia/Documents/Practicas/Proyectos/Banco_UTL/src/java/com/dg/banco_utl/rest/CuentaREST.java</file>
+            <file>file:/C:/Users/damia/Documents/Practicas/Proyectos/Banco_UTL/src/java/com/dg/banco_utl/dao/TransaccionDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
